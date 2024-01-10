@@ -19,6 +19,7 @@ public class T1_GoogleScreenShot extends TestParent {
     @Test
     public void tc001_GitCommit() {
         //commiting a new test case
+        //commiting even mo
 
     }//emd tedt
 
